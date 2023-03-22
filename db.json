@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sản Phẩm 1",
+      "desc": "Sản phẩm tuyệt vời",
+      "price": "120000"
+    },
+    {
+      "id": 2,
+      "name": "Sản Phẩm 2",
+      "desc": "Sản phẩm tuyệt vời",
+      "price": "120000"
+    },
+    {
+      "id": 3,
+      "name": "Sản Phẩm 3",
+      "desc": "Sản phẩm tuyệt vời",
+      "price": "120000"
+    }
+  ]
+}
